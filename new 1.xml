@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <class>
+ <![CDATA[学生信息]]>
+ <student>
+ <student1>
+ <![CDATA[姓名]]>
+ <name>张三</name>
+ <![CDATA[序号]]>
+ <number>1</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student1>
+ 
+ <student2>
+ <![CDATA[姓名]]>
+ <name>李四</name>
+ <![CDATA[序号]]>
+ <number>2</number>
+ <![CDATA[年龄]]>
+ <age>21</age>
+ </student2>
+ 
+ <student3>
+ <![CDATA[姓名]]>
+ <name>王五</name>
+ <![CDATA[序号]]>
+ <number>3</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student3>
+ 
+ <student4>
+ <![CDATA[姓名]]>
+ <name>侯六</name>
+ <![CDATA[序号]]>
+ <number>4</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student4>
+ 
+ <student5>
+ <![CDATA[姓名]]>
+ <name>小明</name>
+ <![CDATA[序号]]>
+ <number>5</number>
+ <![CDATA[年龄]]>
+ <age>19</age>
+ </student5>
+ 
+ <student6>
+ <![CDATA[姓名]]>
+ <name>小华</name>
+ <![CDATA[序号]]>
+ <number>6</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student6>
+ 
+ <student7>
+ <![CDATA[姓名]]>
+ <name>小红</name>
+ <![CDATA[序号]]>
+ <number>7</number>
+ <![CDATA[年龄]]>
+ <age>21</age>
+ </student7>
+ 
+ <student8>
+ <![CDATA[姓名]]>
+ <name>小西</name>
+ <![CDATA[序号]]>
+ <number>8</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student8>
+ 
+ <student9>
+ <![CDATA[姓名]]>
+ <name>小东</name>
+ <![CDATA[序号]]>
+ <number>9</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student9>
+ 
+ <student10>
+ <![CDATA[姓名]]>
+ <name>小松</name>
+ <![CDATA[序号]]>
+ <number>10</number>
+ <![CDATA[年龄]]>
+ <age>20</age>
+ </student10>
+ </student>
+ </class>
